@@ -39,7 +39,7 @@ Languages and frameworks I use most:
 
 ## 📫 Get in touch
 - Website: https://pivlu.com
-- Email: chimilevschi@clevada.com
+- Email: gabriel@pivlu.com
 - LinkedIn: [Gabriel Chimilevschi](https://linkedin.com/in/chimilevschi)
 
 ---
