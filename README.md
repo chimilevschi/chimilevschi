@@ -24,8 +24,9 @@ Languages and frameworks I use most:
 ---
 
 ## ⭐ Featured project
-- [Pivlu — Open source CMS and Website Builder](https://github.com/pivlu/pivlu)  
-  Pivlu is an open-source WordPress alternative written in PHP and built on the Laravel framework. (Repository language highlights: PHP, Blade, CSS, JavaScript.)
+- [Pivlu — Open source Business Platform](https://github.com/pivlu/pivlu)
+- Pivlu - Open source Business Platform. Pivlu comes with a complete suite of tools that any business, team, or website owner needs.
+  Pivlu CE is written in PHP and built on the Laravel framework. (Repository language highlights: PHP, Blade, CSS, JavaScript.)
 
 ---
 
