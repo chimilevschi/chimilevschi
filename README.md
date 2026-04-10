@@ -20,10 +20,14 @@ Languages and frameworks I use most:
 - JavaScript
 - MySQL / PostgreSQL • Redis
 - Git • Docker • GitHub Actions
+- AI • Claude Code • Visual Studio Code
 
 ---
 
-## ⭐ Featured project
+## ⭐ Featured projects
+- [Opterius Panel — Open source hosting and server control panel](https://github.com/opterius/panel)
+- Opterius Panel — Open-source hosting control panel I built as a modern alternative to cPanel / WHM. Powers real hosting servers with 50+ features. Laravel + Go.
+
 - [Pivlu — Open source Business Platform](https://github.com/pivlu/pivlu)
 - Pivlu - Open source Business Platform. Pivlu comes with a complete suite of tools that any business, team, or website owner needs.
   Pivlu CE is written in PHP and built on the Laravel framework. (Repository language highlights: PHP, Blade, CSS, JavaScript.)
